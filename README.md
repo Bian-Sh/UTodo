@@ -7,7 +7,7 @@
 
 - 关联代码表记表 TodoList
 
-![Todolist](https://github.com/ll4080333/UTodo/blob/master/TODOLIS/screenshotT/UTodo.png)
+![Todolist](https://github.com/ll4080333/UTodo/blob/master/TODOLIST/screenshot/UTodo.png)
 
 - 项目任务列表 TaskList
 
